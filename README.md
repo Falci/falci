@@ -5,7 +5,7 @@
 
 <!-- 🔭 I’m currently working on [Sinpapeles](https://sinpapeles.xyz) and other projects using [HNS](https://github.com/handshake-org/hsd). -->
 
-<img align="right" alt="GIF" src="images/animation.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="res/animation.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Contact/Social:</h3>
 <p>
@@ -102,9 +102,16 @@
 
 ```text
 No activity tracked
+
 ```
 
 <!--END_SECTION:waka-->
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="res/frame.jpeg">
+    <source src="res/test.mp4" type="video/mp4">
+  </video>
+</figure>
 
 <a href="https://falci.me/">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=falci&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falci&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" /></a>
