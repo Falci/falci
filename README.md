@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<br /><br />
+<br />
 
 <!-- 🔭 I’m currently working on [Sinpapeles](https://sinpapeles.xyz) and other projects using [HNS](https://github.com/handshake-org/hsd). -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="images/animation.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Contact/Social:</h3>
 <p>
@@ -32,7 +32,6 @@
   </a>
 </p>
 
-<br />
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3d3d3d?style=flat&logo=css3&logoColor=1572B6" /> 
@@ -85,7 +84,6 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-3d3d3d?style=flat&logo=webpack" /> 
 </p>
 
-<br />
 <h3 align="left">Support/Sponsor:</h3>
 <p>
   <a href="https://ln.falci.me" target="blank">
