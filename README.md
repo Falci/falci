@@ -97,6 +97,7 @@
   </a>
 </p>
 
+<h3 align="left">How I spent my time last week:</h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -110,8 +111,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<h3 align="left">GitHub Stats:</h3>
 <a href="https://falci.me/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=falci&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falci&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=falci&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falci&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=" /></a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falci&" alt="falci" /></p> -->
 
