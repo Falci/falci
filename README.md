@@ -59,6 +59,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-3d3d3d?style=flat&logo=jest&logoColor=C21325" /> 
   <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-3d3d3d?style=flat&logo=mocha" /> 
   <br />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-3d3d3d?style=flat&logo=vite" /> 
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-3d3d3d?style=flat&logo=babel" /> 
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-3d3d3d?style=flat&logo=eslint&logoColor=4B32C3" /> 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-3d3d3d?style=flat&logo=prettier" />
