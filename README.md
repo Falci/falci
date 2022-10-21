@@ -102,8 +102,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.61 %
-Other        2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+JavaScript   4 hrs 45 mins   █████████████░░░░░░░░░░░░   52.07 %
+Other        1 hr 54 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
 ```
 
 <!--END_SECTION:waka-->
