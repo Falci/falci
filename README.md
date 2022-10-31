@@ -102,9 +102,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 30 mins  ████████████████▒░░░░░░░░   65.84 %
-Markdown     2 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Other        1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+JavaScript   10 hrs 40 mins  ████████████▓░░░░░░░░░░░░   50.94 %
+YAML         3 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Markdown     2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
