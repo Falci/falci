@@ -101,12 +101,12 @@
 <h3 align="left">How I spent my time last week:</h3>
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   18 hrs 2 mins   ████████████████████████░   95.94 %
-JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```txt
+TypeScript   8 hrs 53 mins   ████████████████████████▒   97.61 %
+JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
