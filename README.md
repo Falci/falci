@@ -84,20 +84,6 @@
   <img alt="Sqlite" src="https://img.shields.io/badge/-Sqlite-3d3d3d?style=flat&logo=sqlite&logoColor=003B57" /> 
 </p>
 
-<h3 align="left">Support/Sponsor:</h3>
-<p>
-  <a href="https://ln.falci.me" target="blank">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-3d3d3d?style=flat&logo=bitcoin" />
-    <img alt="Lightning Network" src="https://img.shields.io/badge/-Lightning_network-3d3d3d?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABMZJREFUeNrsm01SGkEUx1ts1sFFKqlUUjHbLAyiSRTzgTcIJxBOIJ5APUHMCRxPIDeQqiRqKkYQsw+pfCeb2Yu+dE+PzAc9MDMy3Q/hVY2jDRTNz//76m4IGdvYRsbg31KWXdMq3zM1RHBK7FZn194YkBzOto73Tg2DW7Hba9fQ5hiQFw53qYw9ZLKrOgYk4Ez74HCrTtx8b448IAaHQ9n1weH2ZuRjkA2HKyfre6jG1NMYB2mhnKxkfEfHZCaQqYen8pLkIZOpZ0rHnCh6OKAn9qByMQan0gMON0PX3CgCOCVfIeiAARCp/dZ+ayQBdbUQ4L6DdvfSGqQ9VTK4HwA3rNbE7f0HOgFRNHC8YFCoRwugTgsBdpUsB8Pvps7grAUQ/F3iitl1lAMyMNYPdqum7hyYIwPIgnPZQgSqBjrcMLiXagXtMgDZIDBub2PjtdTdg8bIAII/+W326QuB7gRdheEOQWITauC4qmS5O7nHzdS9wyksgBJVEPzOVzpwgt3Jn+YNgshognBEC9EXjC+bIQnOiQKy4IDdQgTHGVkNVE3dP2xda0DwK8/SuN18BscZeZpHFJwTCdIWHKtKhkyfOBPkZlXLxXo8H2RuKXfX1uTDoxYaQPAzz1oI4Dufmb5xprebOePgXQKJAKff+PLkzKdamM+VGgycRaYY2AUpHAiYODgQPBd44YAzFOo1ocala97JxKALBgdE85kN50593WwAiun5mkaUJvjqQRrsXYh4Uu92J3BzDHp+bDdrWe6VPTaVALr4scir5EJAPRNLTQOMM55xENvWRRoBzpWC9MX3RWcXIrI7KQLjvJXJ/lyms8eRG2AaE47YhdAVZ0K8xpcsynHgxFIQg2NXySE+UFDa9seZkDAjuJN7DhxO7P4uEqCLbws8U9VRupMfjLhv0tzxhspWI4MGTK8+T4wbNFe/Epx4LvZ1oUJIvwX3K8G5we6V+KoRLQudqxeHYsEsjp1/nt9jn7IQ0Z0u/zE8GC8zQOa1BHR+OsfV+aXbnaUB2GkpxO8Cznx9YLshFKGAKjI4IRpgUQgOEA5OQEBWQsYZNzDTVs7AF9tQATpvzvEaazpEnPGPF+njeiLbRLgUBLDuqTNBGmf86b7M4NSSmhIaQOeNXAEs9USqjdbok4aR5LzwHMEjZD1iEWowOFtJzwtFmm/Xc3zJZC90dS7glFXMjSKRz4oUjNzNGvSpGjgoALWPczxrlUL2YFYhqHJ++hXEM1e4dC5qnYWG0jNDWmNQ+2hW0lZI488lHOVHYnQryNVWBKZzG86JlvNC2hTU/uhWT8+sVaaLJ4aueWpUELxyDnIGpnOtcLjp+yoCkHV51uqoaUs3HG0Kan/I2k1pYNYyaP5kDUOJpsvFVnpkrRpdOikTJKYcUPswW7B2YyVVM4gVwSJBZOoVBLBKfMsZ0KmSYTm91DQxAVKa5tsHj6at1A6+ZAWi1kk/azYIMlOrIFfmAocQWjhKFdTeF+qRHGsppp83qwSpqfuuBkhPgpQxw1GmoLN3M91NKSGbDM4GQW6qKumSt2MnxjDAUediQFbdVXL6RbNMhsQSB3T2dsbVVlgHKNfIEBlVoJ6M+1BB+uWpOQbkTV+XHbkxbHDGFsL+CzAAW7PBlK3D0SAAAAAASUVORK5CYII=" />
-  </a>
-  <a href="https://www.buymeacoffee.com/falci" target="blank">
-    <img alt="Buy me a coffee" src="https://img.shields.io/badge/-Buy_me_a_coffee-3d3d3d?style=flat&logo=buymeacoffee" />
-  </a>
-  <a href="https://github.com/sponsors/Falci" target="blank">
-    <img alt="GitHub Sponsor" src="https://img.shields.io/badge/-GitHub_Sponsor-3d3d3d?style=flat&logo=githubsponsors" />
-  </a>
-</p>
-
 <h3 align="left">How I spent my time last week:</h3>
 <!--START_SECTION:waka-->
 
